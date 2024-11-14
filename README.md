@@ -18,8 +18,9 @@ Usage: CheckFndr <barcode>
 
 ```
 $ CheckFndr 12345678901
-The barcode 12345678901 uses the EAN-13 check digit algorithm.
 
+The barcode 12345678901 uses the EAN-13 check digit algorithm.
+```
 
 To add...
 
